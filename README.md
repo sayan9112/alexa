@@ -1,6 +1,6 @@
 # alexa
 
-**INSTALLATION:
+**INSTALLATION:**
 
               For windows users
               (run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
@@ -23,5 +23,5 @@
 
 
 
-**Issues:
+**Issues:**
               If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
