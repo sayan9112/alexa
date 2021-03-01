@@ -2,6 +2,9 @@
 
 **ABSTRACT:**
               Smart home speakers were a novel idea just a couple of years ago. Today, they’ve become a central part of many people’s homes and offices and their adoption is                 only expected to grow. Among the most popular of these devices are those controlled by Amazon Alexa. In this project, I made an application that users will                     interact with using voice commands like Amazon Alexa devices.
+
+
+
 **INSTALLATION:**
 
               For windows users
